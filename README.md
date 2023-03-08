@@ -1,2 +1,3 @@
-# github-pages
-A sample repo for using GitHub Pages.
+# Github Pages Sample
+
+This ia a sample of how to use GitHub Pages to host a static website.
